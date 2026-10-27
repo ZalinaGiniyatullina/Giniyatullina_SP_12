@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Variant1/Variant1.vcxproj" Id="4e1c1985-9eea-4cc2-b3a6-1ad37aaa176e" />
+  <Project Path="Giniyatullina_SP_12/Giniyatullina_SP_12.vcxproj" Id="5783b277-7745-4d93-bded-003371671037" />
+</Solution>
